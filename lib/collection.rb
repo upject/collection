@@ -26,7 +26,7 @@ require 'fastercsv'
 #
 
 
-class Collection
+class Coollection
   
   class PropertyExists        < StandardError ; end
   class PropertyNotFound      < StandardError ; end
